@@ -3,7 +3,8 @@
 Pariksha is an Android application designed for students to test their skills through quizzes uploaded by teachers. This app provides a platform where teachers can upload questions, and students can take quizzes and track their performance.
 
 
-<mark>Featurep</mark>
+<mark>Features</mark>
+
 Quiz Creation: Teachers can create and upload quizzes with multiple-choice questions.
 
 Take Quizzes: Students can browse and take quizzes assigned by teachers.
